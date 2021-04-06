@@ -1,0 +1,31 @@
+#services_offered{
+	margin-top: 30px;
+}
+.services-column{
+	padding: 30px;
+	text-align: center;
+
+}
+.services-column{
+	margin-top: 30px;
+}
+
+#gallery{
+	margin-top: 100px;
+}
+.button{
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+footer{
+	background-color: black;
+	margin-top: 30px;
+	color: #FF0000;
+}
+footer ul{
+	list-style: none;
+}
+.footer-link:hover{
+	color: #FF0000;
+
+}
